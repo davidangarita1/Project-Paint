@@ -1,0 +1,64 @@
+* {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#logop {
+    height: 30px;
+}
+
+#saveToImage img{
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+
+canvas {
+    cursor: crosshair;
+}
+
+
+div#sidebar {
+    position: absolute;
+    left: 0;
+    width: 150px;
+    padding: 20px 20px;
+    top: 0;
+}
+
+#cajamaestra{
+    height: 650px;
+    background: #D2DBEA;
+}
+
+canvas#canvas {
+    left: 205px;
+    top: 205px;
+}
+
+.btn {
+    margin-bottom: 10px;
+    width: 100%;
+}
+input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.toolsButtons .btn {
+    width: 48%;
+}
+
+.sizeButtons .btn {
+    width: 48%;
+}
+
+.colorpicker {
+    background: transparent;
+    height: 40px;
+}
