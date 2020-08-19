@@ -40,7 +40,8 @@
     document.getElementById('save').addEventListener('click', save);
     document.getElementById('load').addEventListener('click', load);
     document.getElementById('clearCache').addEventListener('click', function() {
-        localStorage.removeItem("savedCanvas");
+        localStorage.removeItem("
+        dCanvas");
         linesArray = [];
         console.log("Cache cleared!");
     });
